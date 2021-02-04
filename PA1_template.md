@@ -1,4 +1,4 @@
-Reproducible Research Project - Week 2
+Reproducible Research Project - Week 2 
 ======================================
 
 ## Loading and Preprocessing Data
